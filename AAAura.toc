@@ -1,0 +1,8 @@
+## Interface: 30400
+## Title: AAAura
+## Notes: Prints "Hello, World" to the chat.
+## Author: gitHabbe
+## Version: 0.0.1
+
+#init.xml
+ArenaLiveCore.xml
